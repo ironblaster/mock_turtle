@@ -1,6 +1,6 @@
 # Mock Turtle
 
-![Plugin Logo](img/thumb.png)
+<img src="img/thumb.png" width="200">
 
 Keep your conversations on track! The Mock Turtle plugin enables your cat to stay on topic, ensuring that the discussions are both relevant and engaging.
 
