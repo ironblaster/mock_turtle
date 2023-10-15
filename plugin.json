@@ -1,10 +1,10 @@
 {
-    "name": "My plugin",
-    "version": "0.0.1",
-    "description": "Description of my_plugin.",
-    "author_name": "Me",
-    "author_url": "https://mywebsite.me",
-    "plugin_url": "https://github.com/my_name/my_plugin",
-    "tags": "cat, template, example",
-    "thumb": "https://raw.githubusercontent.com/my_repo_path/my_plugin.png"
+  "name": "Mock Turtle",
+  "version": "0.0.1",
+  "description": "Allows the cat to talk only about what he knows, avoiding going off-topic.",
+  "author_name": "Ironblaster",
+  "author_url": "https://github.com/ironblaster",
+  "plugin_url": "https://github.com/ironblaster/mock_turtle",
+  "tags": "off-topic, topic, memory",
+  "thumb": "https://raw.githubusercontent.com/ironblaster/mock_turtle/main/img/thumb.png"
 }
